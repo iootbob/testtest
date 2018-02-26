@@ -144,7 +144,7 @@
 
            string += "<tr class='data'><td>" + s.comp_name + "</td>";
            string += "<td>" + s.employees + "</td></tr>"
-
+//comment
            //console.log(s.employees)
            
             //stored.push(s.employees);
